@@ -1,0 +1,51 @@
+Student_ID,Attendance,Study_Hours,Previous_Marks,Assignment_Score,Internal_Marks,Participation,Performance
+S001,92,6.5,88,90,85,9,Excellent
+S002,85,5.0,78,82,80,8,Good
+S003,72,3.0,65,70,68,6,Average
+S004,60,2.0,52,55,50,4,Needs Improvement
+S005,95,7.0,91,94,90,10,Excellent
+S006,88,5.5,82,85,84,8,Good
+S007,75,3.5,70,72,69,6,Average
+S008,55,1.5,48,50,45,3,Needs Improvement
+S009,90,6.0,86,88,87,9,Excellent
+S010,80,4.5,75,78,74,7,Good
+S011,68,2.5,58,62,60,5,Average
+S012,50,1.0,42,45,40,2,Needs Improvement
+S013,94,6.8,89,92,91,10,Excellent
+S014,83,5.2,80,81,79,8,Good
+S015,70,3.2,63,67,65,5,Average
+S016,58,1.8,50,52,48,3,Needs Improvement
+S017,97,7.5,94,96,93,10,Excellent
+S018,86,5.8,84,86,82,9,Good
+S019,74,3.8,68,71,67,6,Average
+S020,62,2.2,55,58,53,4,Needs Improvement
+S021,91,6.2,87,89,88,9,Excellent
+S022,82,4.8,77,80,76,7,Good
+S023,69,2.8,61,64,59,5,Average
+S024,57,1.7,46,49,44,3,Needs Improvement
+S025,96,7.2,92,95,91,10,Excellent
+S026,84,5.3,81,83,80,8,Good
+S027,76,3.6,69,73,68,6,Average
+S028,53,1.3,44,47,42,2,Needs Improvement
+S029,93,6.7,90,91,89,9,Excellent
+S030,81,4.6,76,79,75,7,Good
+S031,71,3.1,64,68,63,5,Average
+S032,59,1.9,51,54,49,3,Needs Improvement
+S033,98,8.0,95,97,94,10,Excellent
+S034,87,5.7,83,87,84,9,Good
+S035,73,3.4,66,70,64,6,Average
+S036,56,1.6,47,51,46,3,Needs Improvement
+S037,89,6.1,85,87,86,9,Excellent
+S038,79,4.2,74,76,72,7,Good
+S039,67,2.7,59,63,57,5,Average
+S040,61,2.1,53,56,51,4,Needs Improvement
+S041,92,6.4,88,90,87,9,Excellent
+S042,85,5.1,79,84,81,8,Good
+S043,77,3.7,71,74,70,6,Average
+S044,54,1.4,45,48,43,2,Needs Improvement
+S045,95,7.1,93,94,92,10,Excellent
+S046,88,5.6,84,86,83,8,Good
+S047,72,3.3,62,66,61,5,Average
+S048,58,1.8,49,53,47,3,Needs Improvement
+S049,90,6.3,86,89,85,9,Excellent
+S050,83,4.9,78,81,77,8,Good
